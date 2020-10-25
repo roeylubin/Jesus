@@ -1,0 +1,108 @@
+@font-face {
+	src: url(fonts/AnyConv.com__GT-Super-Display-Regular-Trial.woff) format('woff');
+	font-family: vamp;
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+	margin: 0;
+	line-height: 22px;
+	font-family: helvetica;
+	font-weight: 100;
+}
+
+/* header */
+header{
+	background-color: #0414AE;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 35px;
+}
+
+header h1{
+	color: #F6E336;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+
+header img {
+    border-radius: 200px;
+    width: 222px;
+    text-align: center;
+    border-color: #0414AE;
+}
+/* header end */
+
+/* main */
+
+main{
+	max-width: 736px;
+	margin: 0 auto;
+	padding: 23px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+.subtext{
+	color: #A8B4CA;
+	text-align: left;
+	margin: 0;
+}
+
+p, a, ol{
+	font-size: 14px;
+}
+
+h1, h2{
+	font-family: voyage;
+	font-weight: 400;
+}
+
+h1{
+	font-family: gt super, times, serif;
+}
+
+h2{
+	color: #0414AE;
+}
+
+a{
+	color: #0413A9;
+	text-align: center;
+}
+
+a:hover{
+	color: #483A92;
+}
+
+ol, ul{
+	padding: 0 20px;
+}
+/* main end */
+
+/* footer start */
+footer {
+	background-color: #0414AE;
+	padding: 25px;
+	text-align: center;
+}
+
+footer p{
+	color: white;
+	margin: 0;
+
+}
+
+footer a{
+	color: #F7E435;
+}
+
+footer a:hover{
+	color: #5D5C32;
+	background-color: transparent;
+}
+/* footer end */
