@@ -30,8 +30,6 @@ header h1{
 header img {
     border-radius: 200px;
     width: 222px;
-    text-align: center;
-    border-color: #0414AE;
 }
 /* header end */
 
@@ -44,13 +42,14 @@ main{
 }
 
 main img{
-	max-width: 100%;
+	width: 100%;
 }
 
 .subtext{
 	color: #A8B4CA;
 	text-align: left;
 	margin: 0;
+	font-style: italic;
 }
 
 p, a, ol{
@@ -68,6 +67,8 @@ h1{
 
 h2{
 	color: #0414AE;
+	font-size: 28px;
+	margin: 40px 0 20px;
 }
 
 a{
