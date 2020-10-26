@@ -89,7 +89,7 @@ ol, ul{
 footer {
 	background-color: #0414AE;
 	padding: 25px;
-	text-align: center;
+	text-align: center;	max-width: 100%;
 }
 
 footer p{
